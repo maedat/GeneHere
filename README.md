@@ -6,9 +6,7 @@ GeneHere visualizes the gene position from gff3 and fasta format files.
 
 ## Example
 
-```
 ![example.png](example/simple_chrom.png)
-```
 
 
 
@@ -45,3 +43,16 @@ cd example
 ../genehere.py -f genome.fa -g gene.gff3 -s 2000000
 
 ```
+
+## Coloration 
+
+When you want to chnage the coloration of the position marker, please add "color" qualifiers like a demo file "gene.gff3 " and spcify the colors via number (1 = Black, 2 = Red, 3 = Green, 4 = blue, 5 =cyan, 6 = purple)
+
+## Licence
+
+[MIT License](http://opensource.org/licenses/mit-license.php)
+
+## Author
+
+[Taro Maeda](
+
