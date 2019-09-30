@@ -1,4 +1,4 @@
-# GeneHere; Gene position visulizer for GFF3 
+# GeneHere; Gene position visualizer for GFF3 
 
 ====
 
