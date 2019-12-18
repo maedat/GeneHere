@@ -46,7 +46,7 @@ cd example
 
 ## Coloration 
 
-When you want to change the coloration of the position marker, please add "color" qualifiers like a demo file "gene.gff3 " and spcify the colors by numbers (1 = Black, 2 = Red, 3 = Green, 4 = blue, 5 =cyan, 6 = purple)
+When you want to change the coloration of the position marker, please add "color" qualifiers like a demo file "gene.gff3 " and specify the colors by numbers (1 = Black, 2 = Red, 3 = Green, 4 = blue, 5 =cyan, 6 = purple)
 
 ## Licence
 
